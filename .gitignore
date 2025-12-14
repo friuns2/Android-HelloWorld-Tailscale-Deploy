@@ -21,6 +21,9 @@ out/
 .gradle/
 build/
 
+# Gradle wrapper jar should be committed
+!gradle/wrapper/gradle-wrapper.jar
+
 # Local configuration file (sdk path, etc)
 local.properties
 
